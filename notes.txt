@@ -1,0 +1,66 @@
+Exécution du programme conversion csv de 18h30 à 23h11
+
+A over
+success_rate  0.8115277777777777  --- total : 7200 , fails : 1357
+B over
+success_rate  0.8565277777777778  --- total : 7200 , fails : 1033
+C over
+success_rate  0.7901388888888888  --- total : 7200 , fails : 1511
+D over
+success_rate  0.83625  --- total : 7200 , fails : 1179
+E over
+success_rate  0.8488888888888889  --- total : 7200 , fails : 1088
+F over
+success_rate  0.9658333333333333  --- total : 7200 , fails : 246
+G over
+success_rate  0.8784722222222222  --- total : 7200 , fails : 875
+H over
+success_rate  0.8743055555555556  --- total : 7200 , fails : 905
+I over
+success_rate  0.86125  --- total : 7200 , fails : 999
+J over
+success_rate  0.8670833333333333  --- total : 7200 , fails : 957
+K over
+success_rate  0.9256944444444445  --- total : 7200 , fails : 535
+L over
+success_rate  0.9144444444444444  --- total : 7200 , fails : 616
+M over
+success_rate  0.6958333333333333  --- total : 7200 , fails : 2190
+N over
+success_rate  0.4795833333333333  --- total : 7200 , fails : 3747
+O over
+success_rate  0.7797222222222222  --- total : 7200 , fails : 1586
+P over
+success_rate  0.6697222222222222  --- total : 7200 , fails : 2378
+Q over
+success_rate  0.7804166666666666  --- total : 7200 , fails : 1581
+R over
+success_rate  0.8809722222222223  --- total : 7200 , fails : 857
+S over
+success_rate  0.8470833333333333  --- total : 7200 , fails : 1101
+Space over
+success_rate  0.5979166666666667  --- total : 7200 , fails : 2895
+T over
+success_rate  0.8370833333333333  --- total : 7200 , fails : 1173
+U over
+success_rate  0.8777777777777778  --- total : 7200 , fails : 880
+V over
+success_rate  0.90125  --- total : 7200 , fails : 711
+W over
+success_rate  0.8856944444444445  --- total : 7200 , fails : 823
+X over
+success_rate  0.82375  --- total : 7200 , fails : 1269
+Y over
+success_rate  0.8666666666666667  --- total : 7200 , fails : 960
+Z over
+success_rate  0.8294444444444444  --- total : 7200 , fails : 1228
+[5843, 6167, 5689, 6021, 6112, 6954, 6325, 6295, 6201, 6243, 6665, 6584, 5010, 3453, 5614, 4822, 5619, 6343, 6099, 4305, 6027, 6320, 6489, 6377, 5931, 6240, 5972]
+3453
+
+
+(33600, 128, 128, 1) (33600,)
+(5600, 128, 128, 1) (5600,)
+(5600, 128, 128) (5600,)
+size training set 33600
+size test set 5600
+dimension 128 x 128
